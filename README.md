@@ -1,7 +1,7 @@
 **How to use (Example)** 
 ## 🚀 Main.kt 
 
-📂 **File Location**: [Main.kt](https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ/blob/main/src/Main.kt)  
+📂 **File Location**: [Main.kt](https://github.com/klofroxx/GlobalSystemHook/blob/main/src/main/kotlin/Main.kt)  
 
 📌 **Code Content:**  
 ```kotlin
